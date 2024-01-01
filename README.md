@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Kenneth Yang (`@kjy5`)
-- 🌱 I’m currently studying CS at the Univeristy of Washington
-- 👨‍💻 I'm a student researcher at the [Steinmetz Lab](https://www.steinmetzlab.net/) for neuroscience
-- 👀 I’m interested in anything tech related, particularly computer graphics
-- 💞️ I’m looking to collaborate on pretty much anything tech related. Let's talk!
+- 👋 Hi, I’m Kenneth Yang (`@kjy5`).
+- 🌱 I’m studying CS at the Univeristy of Washington.
+- 👨‍💻 I'm a student researcher in the [Virtual Brain Lab](https://virtualbrainlab.org/) group at the [Steinmetz Lab](https://www.steinmetzlab.net/) for neuroscience.
+- 👀 I’m interested in anything tech-related, particularly computer graphics
+- 💞️ I’m looking to collaborate on pretty much anything tech-related. Let's talk!
 - 📫 How to reach me: my email is kjy5@uw.edu
-- 🏡 Checkout my personal account [`microbob`](https://github.com/microBob)!
+- 🏡 Check out my personal projects [`@microbob`](https://github.com/microBob)!
 
 <!---
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy5&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&hide=stars)
