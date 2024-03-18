@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Kenneth Yang (`@kjy5`).
-- 🌱 I’m studying CS at the Univeristy of Washington.
-- 👨‍💻 I'm a student researcher in the [Virtual Brain Lab](https://virtualbrainlab.org/) group at the [Steinmetz Lab](https://www.steinmetzlab.net/) for neuroscience.
-- 👀 I’m interested in anything tech-related, particularly computer graphics
-- 💞️ I’m looking to collaborate on pretty much anything tech-related. Let's talk!
-- 📫 How to reach me: my email is kjy5@uw.edu
+# 👋 Hi, I’m Kenneth Yang
+
+🙋‍♂️ I use He/Him pronouns.
+
+🌱 I'm studying Computer science at the University of Washington (Seattle).
+
+👀 I'm interested in 🎨computer graphics, 🤖human-computer interactions, and 🛠️tool building
+
+## 👨‍🔬 I'm a student research assistant
+- 🧠 I make software tools to automate electrophysiology experiments in the [Virtual Brain Lab](https://virtualbrainlab.org/) group at the [Steinmetz Lab](https://www.steinmetzlab.net/) for neuroscience.
+- 👨‍💻 I make software tools to merge code in the [PLSE](https://uwplse.org/) group.
+
+## You can reach me...
+- 📫 By email: kjy5@uw.edu
+- 📸 By Instagram: `@kennethy58`
 - 🏡 Check out my personal projects [`@microbob`](https://github.com/microBob)!
 
 <!---
