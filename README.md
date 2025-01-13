@@ -6,13 +6,13 @@
 
 👀 I'm interested in 🎨computer graphics, 🤖human-computer interactions, and 🛠️tool building
 
-## 👨‍🔬 I'm a student research assistant
+## 👨‍🔬 I'm a software researcher at UW
 - 🧠 I make software tools to automate electrophysiology experiments in the [Virtual Brain Lab](https://virtualbrainlab.org/) group at the [Steinmetz Lab](https://www.steinmetzlab.net/) for neuroscience.
-- 👨‍💻 I make software tools to merge code in the [PLSE](https://uwplse.org/) group.
+- 👨‍💻 I rearch methods for accelerating [3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) in the [PLSE](https://uwplse.org/) group.
 
 ## You can reach me...
 - 📫 By email: kjy5@uw.edu
-- 📸 By Instagram: `@kennethy58`
+- 📸 By Instagram: `@kennethy58` (I do freelance photography)
 - 🏡 Check out my personal projects [`@microbob`](https://github.com/microBob)!
 
 <!---
