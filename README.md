@@ -13,7 +13,7 @@
 ## You can reach me...
 - 📫 By email: kjy5@uw.edu
 - 📸 By Instagram: `@kennethy58` (I do freelance photography)
-- 🏡 Check out my personal projects [`@microbob`](https://github.com/microBob)!
+- 🏡 Check out my personal projects [`@kennethjyang`](https://github.com/kennethjyang)!
 
 <!---
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy5&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&hide=stars)
