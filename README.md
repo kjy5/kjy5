@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kenneth Yang
 
-This is my old account from when I was a student at the University of Washington. Most repositories have been moved to [my personal account](https://github.com/kennethjyang). This is kept here for legacy.
+This is my old account from when I was a student at the University of Washington. Important active repositories have been moved to [my personal account](https://github.com/kennethjyang). This is kept here for legacy.
 
 🌱 I graduated from the University of Washington (Seattle) with a BS in Computer Science in 2025 and an MS in Computer Science in 2026. I am now a PhD student at Inria.
 
